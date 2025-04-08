@@ -1,0 +1,19 @@
+var READTHEDOCS_DATA = {
+    project: "wfdb-python",
+    version: "latest",
+    language: "en",
+    programming_language: "words",
+    subprojects: {},
+    canonical_url: "https://wfdb-python.readthedocs.io/en/latest/",
+    theme: "classic",
+    builder: "sphinx",
+    docroot: "/docs/",
+    source_suffix: ".rst",
+    api_host: "https://readthedocs.org",
+    commit: "0d4b5a68",
+    ad_free: false,
+
+    global_analytics_code: "UA-17997319-1",
+    user_analytics_code: null
+};
+
